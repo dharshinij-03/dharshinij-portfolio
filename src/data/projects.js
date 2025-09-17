@@ -7,9 +7,9 @@ const projects = [
   summary:
     "A community-driven platform where users can exchange skills and services. It allows people to create skill profiles, find matches, schedule sessions, chat, and leave feedback. Designed to make skill-sharing simple, trustworthy, and accessible.",
   tech: ["React", "Bootstrap", "Node.js", "Express", "MongoDB"],
-  img: helphive, // add your project screenshot to src/assets/
-  github: "https://github.com/dharshinij-03/HelpHive.git", // replace with your repo link
-  demo: "https://helphive-demo.vercel.app" // replace with your deployed link if available
+  img: helphive, 
+  github: "https://github.com/dharshinij-03/dharshinij-portfolio.git", 
+  demo: "https://helphive-demo.vercel.app" 
 
   },
   {
